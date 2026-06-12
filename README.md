@@ -1,1 +1,1 @@
-# mta-sts.hackerone.com
+SUBDOMAIN TAKEOVER BY QUAIN
